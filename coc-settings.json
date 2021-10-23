@@ -9,6 +9,11 @@
     }
   },
   "cSpell.userWords": [
+    "Cmake",
+    "mkdir",
+    "neovim",
+    "nvim",
+    "pigz",
     "rofi"
   ]
 }
