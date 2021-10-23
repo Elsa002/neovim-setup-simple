@@ -1,0 +1,7 @@
+:CocInstall coc-calc coc-clang-format-style-options coc-cmake
+
+:CocInstall coc-css coc-cssmodules coc-git coc-html coc-highlight coc-java coc-json 
+
+:CocInstall coc-lightbulb coc-ltex coc-markdownlint coc-omnisharp coc-prettier
+
+:CocInstall coc-sh coc-spell-checker coc-tsserver coc-yaml
