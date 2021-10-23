@@ -24,14 +24,14 @@ source ~/.config/nvim/nvim-NERDCommenter.vim
 source ~/.config/nvim/nvim-coc.vim
 source ~/.config/nvim/nvim-cspell.vim
 
-" Cmake support
-source ~/.config/nvim/nvim-cmake.vim
-
 " Cpp highlighting
 source ~/.config/nvim/nvim-cpp-enhanced-highlight.vim
 
 " Tagbar
 source ~/.config/nvim/nvim-tagbar.vim
+
+" Cmake support
+source ~/.config/nvim/nvim-cmake.vim
 
 " mappings
 source ~/.config/nvim/map.vim

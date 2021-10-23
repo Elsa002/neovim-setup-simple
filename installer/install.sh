@@ -4,4 +4,4 @@ tar --extract -v --use-compress-program="pigz" --file="$HOME/.config/nvim/instal
 
 tar --extract -v --use-compress-program="pigz" --file="$HOME/.config/nvim/installer/config.coc.tar.gz" --directory="$HOME/.config"  
 
-~/.config/nvim/installer/conque_gdb_fix.sh
+~/.config/nvim/installer/fix_bugs.sh
